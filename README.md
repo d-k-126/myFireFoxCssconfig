@@ -19,5 +19,4 @@ I'm passionate about crafting innovative solutions, specializing in fake tools a
 
 If you're interested in collaborating or discovering more about my projects, don't hesitate to reach out:
 
-- Email: your.email@example.com
-- GitHub: [Toilasv](https://github.com/Toilasv)
+- Email: ntacbd123@gmail.com
