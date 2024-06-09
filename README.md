@@ -1,22 +1,17 @@
-# Welcome! 👋
+# FutureFox 🦊
 
-## About Me
+FutureFox is the most stylish Firefox CSS you can find.
 
-Greetings! I'm Khôi, also known as Toilasv. I'm a versatile coder fluent in Python, CSS, HTML, and Java.
+![Screenshot 2024-06-10 042151](https://github.com/Khoisieucapdeptrai/FutureFox/assets/149751155/ca6af441-59ea-4947-8d46-25cced4824a9)
 
-## Skills
 
-- Python
-- CSS
-- HTML
-- Java
 
-## Interests
+## Usage
 
-I'm passionate about crafting innovative solutions, specializing in fake tools and bespoke interface designs. Exploring the realm of customization fuels my creativity and drives my pursuit of excellence.
+1. Set `toolkit.legacyUserProfileCustomizations.stylesheets` to `true`.
+2. Download the chrome folder and add it to the Firefox user profile folder under `/chrome`.
 
-## Get in Touch
+![Screenshot 2024-06-10 042419](https://github.com/Khoisieucapdeptrai/FutureFox/assets/149751155/eab1785e-8549-4f6c-8f6c-dd9bf30272a5)
 
-If you're interested in collaborating or discovering more about my projects, don't hesitate to reach out:
 
-- Email: ntacbd123@gmail.com
+Enjoy browsing with FutureFox! 🦊✨
