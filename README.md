@@ -1,6 +1,4 @@
-# FutureFox 🦊
 
-FutureFox is the most stylish Firefox CSS you can find.
 
 ![Screenshot 2024-06-10 042151](https://github.com/Khoisieucapdeptrai/FutureFox/assets/149751155/ca6af441-59ea-4947-8d46-25cced4824a9)
 
