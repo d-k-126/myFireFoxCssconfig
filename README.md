@@ -12,4 +12,4 @@
 ![Screenshot 2024-06-10 042419](https://github.com/Khoisieucapdeptrai/FutureFox/assets/149751155/eab1785e-8549-4f6c-8f6c-dd9bf30272a5)
 
 
-Enjoy browsing with FutureFox! 🦊✨
+Toilasv
